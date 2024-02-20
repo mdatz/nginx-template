@@ -1,6 +1,6 @@
 # NGINX Proxy Server Template
 <p align="center">
-  <img src="https://i.kym-cdn.com/photos/images/original/001/055/715/0d7.gif" />
+  <img src="https://i.kym-cdn.com/photos/images/original/001/128/585/0ec.gif" />
 </p>
 
 Welcome to the Docker NGINX Template repository! This template provides a solid foundation for setting up an NGINX server using Docker. Whether you're new to Docker or an experienced user, this template aims to simplify the process of creating and deploying NGINX servers.
